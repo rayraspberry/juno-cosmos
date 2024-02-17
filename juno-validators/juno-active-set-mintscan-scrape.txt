@@ -1,0 +1,149 @@
+Name;Address;Ranking;Voting Power;Individual Share;Voting Participation
+Cosmostation;junovaloper1t8ehvswxjfn3ejzkjtntcyrqwvmvuknzmvtaaa;1;4,507,980;9.11%;112 / 119
+SG-1;junovaloper196ax4vc0lwpxndu9dyhvca7jhxp70rmcqcnylw;2;3,268,370;15.72%;93 / 119
+stakefish;junovaloper1sjllsnramtg3ewxqwwrwjxfgc4n4ef9uxyejze;3;2,032,953;19.83%;23 / 119
+The_Cybernetics;junovaloper1yfx5x9cs3nvncprlw0kuw2cgs9qq38uqnwfhd8;4;1,915,559;23.71%;54 / 119
+DAO DAO;junovaloper185hgkqs8q8ysnc8cvkgd8j2knnq2m0ah6ae73gntv9ampgwpmrxqlfzywn;5;1,869,257;27.48%;0 / 119
+Swiss Staking;junovaloper1y0us8xvsvfvqkk9c6nt5cfyu5au5tww2wsdcwk;6;1,803,371;31.13%;112 / 119
+Stakecito;junovaloper1yy3tnegzmkdcm7czzcy3flw5z0zyr9vkkxrfse;7;1,446,573;34.06%;113 / 119
+OmniFlix Network;junovaloper1afhtjur8js4589xymu346ca7a5y5293x7p64ca;8;1,400,693;36.89%;76 / 119
+0base.vc;junovaloper1n3mhyp9fvcmuu8l0q8qvjy07x0rql8q4kjctkq;9;1,282,239;39.48%;115 / 119
+PUPMØS;junovaloper1ka8v934kgrw6679fs9cuu0kesyl0ljjy2kdtrl;10;1,275,616;42.06%;101 / 119
+Citadel.one;junovaloper1lzhlnpahvznwfv4jmay2tgaha5kmz5qx4cuznf;11;1,252,418;44.59%;91 / 119
+POSTHUMAN∞DVS;junovaloper1e8238v24qccht9mqc2w0r4luq462yxttjzn7qt;12;1,214,758;47.05%;79 / 119
+Frens (🤝,🤝);junovaloper1ej2es5fjztqjcd4pwa0zyvaevtjd2y5w2aqycm;13;1,142,311;49.36%;94 / 119
+polkachu.com;junovaloper1gp957czryfgyvxwn3tfnyy2f0t9g2p4pvzc6k3;14;1,044,015;51.47%;114 / 119
+Kintsugi Nodes;junovaloper1juczud9nep06t0khghvm643hf9usw45r23gsmr;15;986,639;53.46%;103 / 119
+Informal Systems;junovaloper1x20lytyf6zkcrv5edpkfkn8sz578qg5sujlhnj;16;964,974;55.41%;90 / 119
+Imperator.co;junovaloper17n3w6v5q3n0tws4xv8upd9ul4qqes0nlg7q0xd;17;963,095;57.36%;116 / 119
+Provalidator;junovaloper1jc9fr7s5kal8878trt86ne0k353r4yd6a60zak;18;824,760;59.03%;102 / 119
+Disperze;junovaloper194v8uwee2fvs2s8fa5k7j03ktwc87h5ym39jfv;19;787,729;60.62%;113 / 119
+Lavender.Five Nodes 🐝;junovaloper1wd02ktcvpananlvd9u6jm3x3ap3vmw59jv9vez;20;708,523;62.05%;95 / 119
+Golden Ratio Staking;junovaloper10y7ucn6jhjtakwchgpw32y0tgaku6yn255z7gm;21;704,559;63.48%;102 / 119
+kingnodes 👑;junovaloper10wxn2lv29yqnw2uf4jf439kwy5ef00qdelfp7r;22;601,280;64.69%;119 / 119
+CryptoDungeon;junovaloper13x4pynlp86prhcmtns742kgsgu7pjtzjeknkwx;23;548,258;65.80%;88 / 119
+Kleomedes;junovaloper1x8u2ypdr35802tjyjqyxan8x85fzxe6sk0qmh8;24;547,699;66.91%;109 / 119
+SmartNodes 🛡 Slash Protected;junovaloper1q3jsx9dpfhtyqqgetwpe5tmk8f0ms5qywje8tw;25;501,884;67.92%;23 / 119
+ChainTools;junovaloper1dru5985k4n5q369rxeqfdsjl8ezutch8mc6nx9;26;486,599;68.91%;90 / 119
+BlueStake 🚀 | 100% insurance;junovaloper1z3svprqzmquw6mckh6rgyt0dmd4yhv7c6l58qc;27;476,513;69.87%;98 / 119
+Gelotto 🛡 Slash Protected;junovaloper1cqdhr7arcezmkhy32qzsqsjvq2rheuhx4xj867;28;474,066;70.83%;81 / 119
+Allnodes;junovaloper1v3lnt5cjjk9658yyrv2673pcqx3nzvkg256xjp;29;463,202;71.77%;63 / 119
+White Whale;junovaloper1dfeenydr9f2vggp8m7jpalvy8jv7fdndncedrm;30;448,397;72.67%;77 / 119
+Oni ⛩️;junovaloper16s96n9k9zztdgjy8q4qcxp4hn7ww98qk0du5jq;31;445,273;73.57%;75 / 119
+StakeLab.zone;junovaloper1la7th9kc3gdltl53cedxxqpkyk5runudrzwx55;32;441,654;74.47%;41 / 119
+KalpaTech;junovaloper1ehkfl7palwrh6w2hhr2yfrgrq8jetgucskr2e0;33;405,143;75.29%;79 / 119
+Cosmology;junovaloper1pr5qgj4jg47lvsnejtfvk78090shvuctgdwdm5;34;397,696;76.09%;23 / 119
+Neta DAO;junovaloper1f2jpv5sc6ur6yurq5w0t2chphrznpy8lfvj9vs;35;395,702;76.89%;76 / 119
+ECO Stake 🌱;junovaloper19ur8r2l25qhsy9xvej5zgpuc5cpn6syydmwtrt;36;394,743;77.69%;90 / 119
+EZ Staking;junovaloper1gjtvly9lel6zskvwtvlg5vhwpu9c9wawjt8r7s;37;389,104;78.47%;69 / 119
+jabbey;junovaloper1xwazl8ftks4gn00y5x3c47auquc62ssuvynw64;38;373,219;79.23%;83 / 119
+Silk Nodes;junovaloper1v676erkdwd3hq2n2a7xte5qpymdfa8c8uyatcw;39;356,252;79.95%;84 / 119
+Chandra Station;junovaloper106y6thy7gphzrsqq443hl69vfdvntgz260uxlc;40;348,525;80.65%;8 / 119
+Smart Stake 📈📊;junovaloper1wj4jhrll90knap3vt8z4qs5rrm9cla2kpc5944;41;336,975;81.33%;108 / 119
+Domerium Labs;junovaloper18lxh6zxpe9jksjh8kclc38724prl8uek8q7f0a;42;316,214;81.97%;57 / 119
+Basement Nodes⚡;junovaloper1j9644d7qyln8smd2t42jvymj0yhjw5qkmw9fms;43;296,269;82.57%;46 / 119
+ShapeShift DAO;junovaloper1jghdavdegcujzg96l08ghx086u0dwyjctw28d2;44;282,455;83.14%;51 / 119
+WhisperNode 🤐;junovaloper193xl2tqh2tjkld2zv49ku5s44ee4qmgr65jcep;45;278,404;83.71%;115 / 119
+✅ CryptoCrew - 100% MEV revenue to Juno stakers! #IBCgang #REstake;junovaloper1ncu32g0lzhk0epzdar7smd3qv9da2n8w8mwn4k;46;262,251;84.24%;105 / 119
+AutoStake 🛡️ Slash Protected;junovaloper15yuuev6n8sfvvkqx2m4rqvrnu8vyuzvmkku3fm;47;243,459;84.73%;51 / 119
+coinhall.org 📈🔄 Data/Charts for Juno;junovaloper1y3u3ht35yn82j72sejtf85dkvqwlt302x47lk9;48;243,091;85.22%;75 / 119
+strangelove;junovaloper130mdu9a0etmeuw52qfxk73pn0ga6gawk2tz77l;49;237,329;85.70%;32 / 119
+Meria;junovaloper1teekgw89a9mx8jhpvuhyx2u6c6neazv80z22gw;50;236,778;86.18%;42 / 119
+Inotel;junovaloper1z89utvygweg5l56fsk8ak7t6hh88fd0aa9ywed;51;236,548;86.66%;4 / 119
+Stakewolle.com | Auto-compound;junovaloper1qr78535yz60zemv82sww948c6azx40gnawnh6r;52;220,776;87.10%;93 / 119
+Enigma;junovaloper18tjj8ang9pelwxhdj8uuta6pchz292suncrlrq;53;217,468;87.54%;79 / 119
+[ block pane ];junovaloper1sgghjqdrj9kujkx38q04d99qsljwfd6mxyrssk;54;212,624;87.97%;83 / 119
+needlecast;junovaloper17dn5e2n6w60pzyxeq79apr05r6jzfw7wgq3m07;55;211,484;88.40%;79 / 119
+CosmosPug 🍒;junovaloper1dqhxzkkkc4frsleknwn8gr9xxg9kynfvj8ky44;56;211,267;88.83%;59 / 119
+Tedcrypto.io 🧸 | TedLotto;junovaloper14xmyp2hdd586frvl0d5mpqy5j9rjkt4khdp5hd;57;193,067;89.22%;79 / 119
+Stakely.io;junovaloper1hx9yj7qgnp8zhkrqfanvz74mcsg9d8eyskvsxg;58;187,241;89.60%;108 / 119
+windpowerstake;junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q;59;180,468;89.96%;115 / 119
+Cosmos Spaces ☮️ 💜 ⚛️;junovaloper1836fhsg6yqpu98vezfc7caakchqe8pvske7t8q;60;179,791;90.33%;47 / 119
+Cros-nest;junovaloper1p0r4znp29547d8ra5k8t6ls0ztm3tj74ak38wz;61;163,762;90.66%;116 / 119
+BlockHunters 🎯;junovaloper1symf474wnypes2d3mecllqk6l26rwz8m9fpvvx;62;159,712;90.98%;44 / 119
+Bored Ape Server;junovaloper1ztx53a02e292sf7gedj56f29ynvmcas03kz09c;63;156,237;91.30%;3 / 119
+RHINO | 10% to Wildlife;junovaloper166r5ylkp70xe0ysq2hjxn26m4q9vfn8q3lv46c;64;152,838;91.60%;89 / 119
+CommunityStaking;junovaloper1zxx8j75ngm8m38v9l5wreaavwnsuun7gcq5cu8;65;151,655;91.91%;116 / 119
+IcyCRO 🧊;junovaloper1nna7k5lywn99cd63elcfqm6p8c5c4qcup6gd43;66;149,783;92.21%;73 / 119
+Regenerator | Green Validator 🌱;junovaloper1ywk2vuqezuslxxs8s7lv2t2622j6raf346guh6;67;147,950;92.51%;112 / 119
+blockscape;junovaloper13x77yexvf6qexfjg9czp6jhpv7vpjdww6lkc9h;68;144,272;92.80%;100 / 119
+GATA DAO;junovaloper1yeaw3dv6jk3hr290l2tsew7rr2vjykynme37s2;69;138,163;93.08%;89 / 119
+NacionCrypto - Parceros;junovaloper1uwm8vhauj6wfj8ydlty3nr6ffeu9lg6j3ma59s;70;136,063;93.36%;75 / 119
+Stake&Relax 🦥;junovaloper1yg0h9xeseq3qfu2vkwj3m29yf42lnyfmqasn35;71;130,421;93.62%;77 / 119
+Quebec;junovaloper170hk97tm6nhrygx463ec38n6q8z4h6sv8tugam;72;129,994;93.89%;23 / 119
+nysa.network;junovaloper1sfw4nl8fq9u3987vand6yjwdhvgw5phewpvg3l;73;122,071;94.13%;79 / 119
+Blockpower;junovaloper179fv09z9lhsyduf5xkgyc3ytelljtddxtgylgh;74;121,996;94.38%;60 / 119
+ZenLounge;junovaloper1xeuvxfdw4cdcu0zcusrmufp97z9mnhfddfaz5k;75;121,084;94.62%;5 / 119
+Chainflow;junovaloper1snn4uhxh04gzpgk4l8naw3n6fu7ucwx35yj8aj;76;120,779;94.87%;43 / 119
+Witval;junovaloper16msryt3fqlxtvsy8u5ay7wv2p8mglfg9g70e3q;77;113,030;95.10%;59 / 119
+Tessellated;junovaloper12udz3pg72mr3yupsguf29nj3gfqlluwq04rg0k;78;112,452;95.32%;72 / 119
+NosNode🔮;junovaloper10jm8fvdyqlj78w0j5nawc76wsn4pqmdxnpxsgg;79;112,327;95.55%;107 / 119
+Chill Validation;junovaloper1mzqqrctm0hvkghf66jruxjtggd5j447dmugz0j;80;104,055;95.76%;97 / 119
+BitValidator;junovaloper1nh67j720gdsqguz24ext3gl8c4lqt6y4495kl0;81;98,454;95.96%;21 / 119
+SpacePotato;junovaloper16gm3cvhluf9xfurkx9qgxq7pldvd479l5359xq;82;94,402;96.15%;80 / 119
+HashKey Cloud;junovaloper1cgh5ksjwy2sd407lyre4l3uj2fdrqhpkw6wmfv;83;88,971;96.33%;60 / 119
+Stake Frites 🥩 🍟;junovaloper1uepjmgfuk6rnd0djsglu88w7d0t49lml7kqufu;84;88,068;96.51%;76 / 119
+#decentralizehk - DHK dao;junovaloper18eancryfzd7n0ag9xy3azqvxgkjla2mrs2uznx;85;84,739;96.68%;90 / 119
+danku_zone w/ DAIC;junovaloper13qjgwewgrwu979wn8xxrh274rjtwk4m5gqkehp;86;84,301;96.85%;76 / 119
+Secure Secrets;junovaloper1vq8tw77kp8lvxq9u3c8eeln9zymn68rng8pgt4;87;82,001;97.02%;49 / 119
+Active Nodes;junovaloper189nl8q7rm4ks2t2l7qwe7j49w7sagw4y8uk2nd;88;77,851;97.17%;109 / 119
+01node;junovaloper17mggn4znyeyg25wd7498qxl7r2jhgue8swpngk;89;70,496;97.32%;92 / 119
+Redline Validation;junovaloper1qylzyxxz8x358670tpuqnf2kjezacahcegx06e;90;69,082;97.46%;51 / 119
+cyberG;junovaloper1353ewfc0v7pnn3xre6v9lraghxrhenswmsjhv0;91;61,628;97.58%;76 / 119
+Node.Monster;junovaloper1j3hyu6hfvup7scca9jah3r02glpdh7xemjhxd4;92;60,406;97.70%;13 / 119
+ZenChainLabs;junovaloper12fzv0wrkllkzkwfv9tch07s3gj9ajhye0y4llv;93;59,982;97.82%;61 / 119
+Validator.run | 100% Slash Protected;junovaloper1fj75m0v53ezdd8mlknzgdg4l3hvwh0h20sg4a8;94;54,459;97.93%;41 / 119
+SG-1 does blowjobs for spare change;junovaloper1gr56uqre7dsqjkknssne7rc9wunsk08gmh3c7h;95;54,360;98.04%;36 / 119
+Cypher Core;junovaloper1pjmngrwcsatsuyy8m3qrunaun67sr9x7w0ztsx;96;54,267;98.15%;107 / 119
+Bro_n_Bro;junovaloper1340rlqnel7ykw0wv6e7sfz5ay95v8ae87fm8xy;97;53,051;98.26%;0 / 119
+Cosmic Validator | 100% MEV revenue to Juno stakers! & Auto-compound;junovaloper1de7qx00pz2j6gn9k88ntxxylelkazfk3yugf8n;98;46,755;98.36%;103 / 119
+AUDIT.one;junovaloper1udpsgkgyutgsglauk9vk9rs03a3skc62y8qyrj;99;45,931;98.45%;95 / 119
+Architect Nodes;junovaloper1hvhyunq7qvykzvrcnhjj4xnkcla58xusk6r60g;100;45,523;98.54%;58 / 119
+Interop (shutting down Feb 28th 2024);junovaloper1u9xeaqdjz3kky2ymdhdsn0ra5uy9tc3e6685u6;101;45,302;98.63%;37 / 119
+artifact;junovaloper1rhjvcesshc833dqwdlwskwcjz08gcnxq9jr5ag;102;41,645;98.72%;0 / 119
+OranG3cluB;junovaloper1aevx3gfvvdce60ql75fp6j4fzj42lru9h0vhqq;103;41,388;98.80%;92 / 119
+Simply Staking;junovaloper124maqmcqv8tquy764ktz7cu0gxnzfw54l2d073;104;40,316;98.88%;91 / 119
+[Beehive];junovaloper16p8274n5zaeaqv2u7msu27p54clum56grzz5zk;105;38,067;98.96%;12 / 119
+Consensus One;junovaloper1ty96k6wly7k9ualepv2hs258u29esn6mq02yd4;106;37,952;99.04%;5 / 119
+FreshSTAKING;junovaloper17h2x3j7u44qkrq0sk8ul0r2qr440rwgj6jfwcp;107;37,313;99.11%;107 / 119
+Perseverance 🇩🇪;junovaloper1c3g697srryr0slg835u375t2j6tqxl489dgnc2;108;36,710;99.19%;0 / 119
+stake.systems;junovaloper1ualhu3fjgg77g485gmyswkq3w0dp7gyskmr0n6;109;28,545;99.24%;90 / 119
+✅0% Fee | ACI69⚛️🇮🇹 | Airdrops;junovaloper1vahajh6g7lakhzj846tdcf8x4gnmhfs2ngl3p7;110;28,326;99.30%;9 / 119
+STAKECRAFT;junovaloper1345rra7x6uswe2z708zx3q7wj04e6wsykw2mk6;111;25,866;99.35%;106 / 119
+🙏 uGaenn ⛅;junovaloper1skggcgkqjc4gv96tujncy2q87avpman8ngz4a6;112;25,566;99.40%;58 / 119
+Flywheel A&M | Powered by NextNet.Works;junovaloper1g4yxykw8ac3h0rnn9glchc2naz53hpj9wa77al;113;21,509;99.45%;0 / 119
+Oldcat;junovaloper1gwd9l44t22e3nteu68akfgykuxu6lq6m6u786d;114;20,999;99.49%;114 / 119
+Validatrium.com;junovaloper1kefmunkqureju38j2s6jdjk5tvug6ewtz5ws6a;115;18,402;99.53%;23 / 119
+ALTER | pathrock;junovaloper1gsjfwpfskfzkwl97tlsph8n2ap0gyjucp0j72x;116;16,771;99.56%;59 / 119
+☉ Mercury;junovaloper1w2ux4x68tn4x4mgg8u0mn8rz5hchfrc8mvwmgj;117;16,318;99.59%;31 / 119
+Stakeflow;junovaloper1ssmt2aveqpc7e0ncgxt0tpj83ur623dvk7uvng;118;15,631;99.63%;19 / 119
+Nodes.Guru;junovaloper193486ateqqf3v7z89x74zx9s85xketdyu9ttts;119;15,467;99.66%;104 / 119
+GOAT V 🐐🚀;junovaloper189p0ze3jue9vxhm8pe3jy0gn3vkgyf2jhewtls;120;14,622;99.69%;28 / 119
+Decloud Nodes Lab;junovaloper1ax4c40gn3s74xxm75g6cmts3fw7rq64gweqg8q;121;12,915;99.71%;6 / 119
+Validavia;junovaloper1cj500uet7ssegwsmh24kt0hjw89ugez0q4wylf;122;12,548;99.74%;10 / 119
+Stakers;junovaloper1x73p5aukx7ak8c2gss3ctvdlqyln38xjnkdj83;123;11,883;99.76%;113 / 119
+chainvibes;junovaloper10wq46f8du234aqtlucv7h9jtrfuxmcnt9ln69l;124;11,184;99.79%;100 / 119
+MEME-Foundation;junovaloper1hslxk7km5z6srvmr993hsgcdxnezg8a5kt45zf;125;10,936;99.81%;11 / 119
+web34ever;junovaloper1mxpyg8u68k6a8wdu3hs5whcpw9q285pcpxm5yx;126;9,528;99.83%;104 / 119
+nRide.com Validator;junovaloper176qmnrvnr5pmfret9l36xqpm87e4l3ww6mjwtv;127;8,393;99.84%;12 / 119
+🔥STAVR🔥 REStake ON✅;junovaloper177svs8gyz28pupaj6amgls6rahcmwmwq06fukv;128;8,120;99.86%;47 / 119
+Hexxagon;junovaloper1hgh0pgpjmvcfsyl3qg7axux0fx4q469m8nel0p;129;7,647;99.88%;0 / 119
+Earn Network;junovaloper10gqlzj5cv4lq2tu8zwrz4c7nezukj3ukay7swq;130;7,345;99.89%;0 / 119
+testovich;junovaloper17rl2chwufuvaetwc0vqane04sr8luhzcf874r6;131;5,281;99.90%;3 / 119
+StakeTown;junovaloper12rkgnycfaqqyclrhquzerrm4nfwg6um26l2aqw;132;5,162;99.91%;21 / 119
+Kalia Network;junovaloper1244ahujswqc5ce784mkvsxsyrjwdxkhrtj27ca;133;4,980;99.92%;47 / 119
+STC Capital;junovaloper1qcrjhyp0x7ft5k0duz8gxx4cmwqaxv7lr0lxa5;134;4,862;99.93%;47 / 119
+COSMØSTAKE;junovaloper1fsa7hy2qgq8xnfpnendmch3v8035529g3cwcms;135;4,830;99.94%;62 / 119
+Validatus;junovaloper19v94c3z7ckarwsum76kaagma0wqsqhh5w9jlsx;136;4,725;99.95%;0 / 119
+SpaceStake;junovaloper1za6z32wkgcuyues2z3yjjds6gvew8qrgfd684l;137;4,261;99.96%;5 / 119
+Aqua Wellspring 💧;junovaloper1rue2fn8h0skd2xe3tsmjqqs6cwn4rqgk2s9vr6;138;3,383;99.97%;6 / 119
+#SoloNation;junovaloper1jkfmt9tgkgsqy023a4e3p750ek8t2uxs4945yn;139;3,187;99.97%;1 / 119
+Antrix Validators;junovaloper15jzyvydxj7x94rxcmqzcd7x84zvk5sy0832kdk;140;3,078;99.98%;13 / 119
+LuckyFriday.io;junovaloper1470qn8y9xy40ta3zdphn3t4tgnvhrenuql7rwt;141;2,900;99.98%;21 / 119
+DOUBLETOP;junovaloper1ew0fwm73fl4g237xhynj6dcts2dxgwdafkdrnv;142;2,350;99.99%;20 / 119
+👋 79anvi 🍀;junovaloper10m832x3h3lv2d7t75hm26w04kly607nqqvkccp;143;2,032;99.99%;1 / 119
+Wave;junovaloper1ww5s8k6820cft2v75cdptesqz3kc27n333arp2;144;1,280;100.00%;26 / 119
+KingSuper;junovaloper1s0lankh33kprer2l22nank5rvsuh9ksahu7s62;145;1,055;100.00%;74 / 119
+Wetez;junovaloper1s05va5d09xlq3et8mapsesqh6r5lqy7m6v038d;146;603;100.00%;44 / 119
+Sr20de 🔥 Restake enabled;junovaloper1aar0u2ta3x9waemz7d9ad0x228kv82a7uqgmfl;147;234;100.00%;34 / 119
+Yurbason;junovaloper15ntrq4rmmd2vtrj5hvczfhqus3v4pqpuxfvj0e;148;126;100.00%;99 / 119
